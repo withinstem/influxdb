@@ -20,7 +20,11 @@ Changes made:
 
 Deploy with docker using embedded [ops-docker](https://github.com/ops-tools/ops-docker) tool.
 
-Exec `scripts/start` to launch local instance.
+Scripts available:
+
+* `scripts/start` for launching local instance.
+* `scripts/rollout` for rolling out to remote host
+* `scripts/rollback` for rolling back
 
 ## License
 
